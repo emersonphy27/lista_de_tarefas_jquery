@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+form {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+header {
+    background-color: blue;
+    color: #fff;
+}
+
+header h1 {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+.estilo{
+
+    text-decoration: line-through
+}
+
+button {
+    background-color: rgb(182, 182, 189);
+    cursor: pointer;
+}
+
+input,
+button{
+    padding: 8px;
+}
+
